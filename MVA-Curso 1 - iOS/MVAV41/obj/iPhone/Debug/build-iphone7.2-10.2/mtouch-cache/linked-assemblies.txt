@@ -1,0 +1,6 @@
+/Users/enrique/Desktop/MVA/Finales/MVA Curso 1/Códigos/MVA-Curso 1 - iOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/mtouch-cache/Link/Plugin.Geolocator.Abstractions.dll
+/Users/enrique/Desktop/MVA/Finales/MVA Curso 1/Códigos/MVA-Curso 1 - iOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/mtouch-cache/Link/System.dll
+/Users/enrique/Desktop/MVA/Finales/MVA Curso 1/Códigos/MVA-Curso 1 - iOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/mtouch-cache/Link/Plugin.Geolocator.dll
+/Users/enrique/Desktop/MVA/Finales/MVA Curso 1/Códigos/MVA-Curso 1 - iOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/enrique/Desktop/MVA/Finales/MVA Curso 1/Códigos/MVA-Curso 1 - iOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/mtouch-cache/Link/mscorlib.dll
+/Users/enrique/Desktop/MVA/Finales/MVA Curso 1/Códigos/MVA-Curso 1 - iOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/mtouch-cache/Link/MVAV41.exe
